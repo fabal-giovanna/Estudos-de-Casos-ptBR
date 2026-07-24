@@ -25,11 +25,15 @@ dash
 
 
 ## 👩🏻‍💻 Insights
-• Concentração de arrecadação tributária
-• Comparação Regional e Estadual
-• Distribuição por categoria tributária
-• Montante de valores arrecadados
-• Padrões de arrecadações por Estado
+✔ Concentração de arrecadação tributária
+
+✔ Comparação Regional e Estadual
+
+✔ Distribuição por categoria tributária
+
+✔ Montante de valores arrecadados
+
+✔ Padrões de arrecadações por Estado
 
 
 ## 📚 Aprendizados
