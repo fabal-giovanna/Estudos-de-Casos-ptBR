@@ -1,1 +1,1 @@
-# Acompanhe neste diretório os arquivos do projeto #
+# Acompanhe neste diretório os arquivos do projeto
