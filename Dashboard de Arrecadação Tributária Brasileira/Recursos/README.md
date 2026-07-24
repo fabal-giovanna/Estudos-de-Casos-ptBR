@@ -1,11 +1,11 @@
 # 🛠️ Recursos e Tecnologias
 
 ## ⚙️ Ferramentas
-✔ Microsoft Power BI - plataforma de análise de negócios que transforma dados de diversas fontes em relatórios e painéis interativos
+✔ Microsoft Power BI - Plataforma de análise de negócios que transforma dados de diversas fontes em relatórios e painéis interativos
 
-✔ Power Query - ferramenta focada em ETL (Extração, Transformação e Carga), que permite conectar a diversas fontes de dados, limpá-los e formatá-los, gravando o processo para automação futura
+✔ Power Query - Ferramenta focada em ETL (Extração, Transformação e Carga), que permite conectar a diversas fontes de dados, limpá-los e formatá-los, gravando o processo para automação futura
 
-✔ DAX - linguagem padrão de fórmulas utilizada para criar cálculos complexos (medidas) e novas colunas a partir de dados brutos
+✔ DAX - Linguagem padrão de fórmulas utilizada para criar cálculos complexos (medidas) e novas colunas a partir de dados brutos
 
 
 
