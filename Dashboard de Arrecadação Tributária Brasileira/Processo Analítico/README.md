@@ -16,7 +16,7 @@ Dashboard desenvolvido com design corporativo clean e moderno, com estruturaçã
 
 ## ⭐ Dashboard
 
-<img width="900" height="722" alt="Arrecadacao_Tributaria_Visao_Geral" src="https://github.com/user-attachments/assets/b03f810d-adbd-4754-9e0b-657fe1cb6617" />
+<img width="900" height="600" alt="Arrecadacao_Tributaria_Visao_Geral" src="https://github.com/user-attachments/assets/b03f810d-adbd-4754-9e0b-657fe1cb6617" />
 
 
 ## 👩🏻‍💻 Insights
