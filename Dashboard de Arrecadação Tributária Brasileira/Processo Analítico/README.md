@@ -16,6 +16,9 @@ Dashboard desenvolvido com design corporativo clean e moderno, com estruturaçã
 
 ## ⭐ Dashboard
 
+## VISÃO GERAL
+### Esta página tem como objetivo mostrar a leitura macro dos principais dados, como o Estado que foi responsável pela maior contribuição e o tributo que obteve maior valor arrecadado. A partir desse estudo, vemos que os filtros se conversam e estão integrados com demais componentes gráficos. Nesta demonstração é possível visualizar o comportamento e manipulação dos dados e como eles estão integrados.
+
 <img width="700" height="350" alt="Arrecadacao_Tributaria_Visao_Geral" src="https://github.com/user-attachments/assets/b03f810d-adbd-4754-9e0b-657fe1cb6617" />
 
 
