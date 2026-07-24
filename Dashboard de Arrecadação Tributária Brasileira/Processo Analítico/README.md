@@ -5,9 +5,9 @@
 ### 1. Coleta de Dados
 A extração da base de dados para análise foi realizada a partir de dados públicos disponibilizados na Base dos Dados, pela Receita Federal.
 ### 2. Limpeza e Tratamento dos Dados
-Utilizado o Power Query par limpeza, tratamento e padronização dos dados a fim de manter a qualidade e integridade dos dados.
+Utilizado o Power Query para limpeza, tratamento e padronização a fim de manter a qualidade e integridade dos dados.
 ### 3. Modelagem de Dados
-Realizado estrutação da modelagem dimensional para trazer medidas fundamentais na análise,
+Realizado estruturação da modelagem dimensional para trazer medidas fundamentais na análise.
 ### 4. Medidas DAX
 Elaboração de medidas DAX para análise, contando com dimensões para leitura temporal e comparativa.
 ### 5. Design do Dashboard
