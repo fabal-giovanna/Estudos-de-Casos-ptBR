@@ -4,19 +4,16 @@
 ### 1. Coleta de Dados
 dados coletados
 
-### 2. Limpeza dos Dados
+### 2. Limpeza E Tratamento dos Dados
 limpeza
 
-### 3. Tratamento
-tratamento 
-
-### 4. Modelagem de Dados
+### 3. Modelagem de Dados
 modelagem
 
-### 5. Medidas DAX
+### 4. Medidas DAX
 medidas
 
-### 6. Design do Dashboard
+### 5. Design do Dashboard
 dash
 
 
