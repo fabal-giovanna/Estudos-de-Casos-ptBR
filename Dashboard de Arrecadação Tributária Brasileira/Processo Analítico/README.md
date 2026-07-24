@@ -44,13 +44,11 @@ dash
 
 • Transformação de dados
 
-• Storytelling com dados
-
-• Construção de dashboards executivos
 
 
 ### E também foi possível demonstrar as seguintes habilidades:
-• Consulta e manipulação diretamente pelo PowerQuery
+• Consulta, manipulação e tratamento direto via PowerQuery
+
 • Análise de Business Intelligence
 
 • Análise, limpeza, modelagem e design dos Dados
@@ -59,3 +57,4 @@ dash
 
 • Análise do negócio
 
+• Construção de dashboard executivo
