@@ -38,16 +38,24 @@ dash
 
 ## 📚 Aprendizados e Habilidades
 ### Durante este projeto foi possível aprofundar conhecimentos em:
-• Modelagem dimensional;
-• Otimização de medidas DAX;
-• Transformação de dados;
-• Storytelling com dados;
+• Modelagem dimensional
+
+• Otimização de medidas DAX
+
+• Transformação de dados
+
+• Storytelling com dados
+
 • Construção de dashboards executivos
+
 
 ### E também foi possível demonstrar as seguintes habilidades:
 • Consulta e manipulação diretamente pelo PowerQuery
-• Business Intelligence
+• Análise de Business Intelligence
+
 • Análise, limpeza, modelagem e design dos Dados
-• Storytelling
+
+• Storytelling dos dados
+
 • Análise do negócio
 
