@@ -11,7 +11,7 @@ acessível e visual**, permitindo responder a perguntas cruciais sobre como a ar
 Apesar da disponibilidade pública dos dados, analistas, gestores e pesquisadores enfrentam desafios para:
 1. **Analisar Tendências Temporais:** Dificuldade em identificar a evolução histórica e a sazonalidade da arrecadação ao longo do tempo.
 2. **Realizar Análises Comparativas:** Complexidade para comparar o desempenho tributário entre diferentes **Estados (UF)** e **Regiões**.
-3. **Compreender a Composição Tributária:** Pouca clareza sobre quais **Tipos de Tributos** possuem maior peso na receita total[cite: 1].
+3. **Compreender a Composição Tributária:** Pouca clareza sobre quais **Tipos de Tributos** possuem maior peso na receita total.
 
 
 ### 🎯 Objetivo
