@@ -36,10 +36,18 @@ dash
 ✔ Padrões de arrecadações por Estado
 
 
-## 📚 Aprendizados
+## 📚 Aprendizados e Habilidades
 ### Durante este projeto foi possível aprofundar conhecimentos em:
 • Modelagem dimensional;
 • Otimização de medidas DAX;
 • Transformação de dados;
 • Storytelling com dados;
 • Construção de dashboards executivos
+
+### E também foi possível demonstrar as seguintes habilidades:
+• Consulta e manipulação diretamente pelo PowerQuery
+• Business Intelligence
+• Análise, limpeza, modelagem e design dos Dados
+• Storytelling
+• Análise do negócio
+
