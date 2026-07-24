@@ -4,7 +4,7 @@ Este repositório é o hub central que conta com meus principais estudos de caso
 Aqui você encontrará projetos focados em Business Intelligence, SQL, Python e Engenharia de Dados.
 
 ## 📊 Principais Projetos
-✔ [Dashboard de Arrecadação Tributária Brasileira](Dashboard de Arrecadação Tributária Brasileira/README.md)
+✔ [Dashboard de Arrecadação Tributária Brasileira](./<Dashboard de Arrecadação Tributária Brasileira>)
 
 ✔ Dashboard de Faturamento Clínico
 
